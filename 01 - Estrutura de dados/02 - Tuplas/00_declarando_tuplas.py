@@ -1,3 +1,4 @@
+# quando não uso a classe tuple, é uma boa prática adicionar uma vírgula mesmo depois do último item para que o interpretador não se perca
 frutas = (
     "laranja",
     "pera",
